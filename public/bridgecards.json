@@ -1,0 +1,55 @@
+{
+    "frames": {
+        "club_2.png": {
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 67,
+                "h": 97
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 96
+            }
+        },
+        "card_back.png": {
+            "frame": {
+                "x": 885,
+                "y": 1,
+                "w": 67,
+                "h": 97
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 96
+            }
+        }
+    },
+    "meta": {
+        "app": "handmade",
+        "version": "1.0",
+        "image": "bridgecards.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 953,
+            "h": 393
+        },
+        "scale": "1"
+    }
+}
